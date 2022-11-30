@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Graphics
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 18080445309@163.com
+- 📫 How to reach me gouheng1616@gmail.com
 
 <!---
 gouheng/gouheng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
